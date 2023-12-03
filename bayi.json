@@ -1,638 +1,320 @@
 [
     {
         "Alan Adı": "yukselceylanotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(376) 213 13 99",
-        "Enlem": "40.564485",
-        "Boylam": "33.611834"
+        "Telefon": "0376 213 13 99",
+        "Lat": "40.564485",
+        "Lot": "33.611834"
     },
     {
         "Alan Adı": "erdemotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(364) 212 58 96",
-        "Enlem": "40.521919",
-        "Boylam": "34.915189"
+        "Telefon": "0364 212 58 96",
+        "Lat": "40.521919",
+        "Lot": "34.915189"
     },
     {
         "Alan Adı": "gursesotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Yok",
-        "Telefon": "(364) 411 52 10",
-        "Enlem": "40.1693",
-        "Boylam": "34.8426"
+        "Telefon": "0364 411 52 10",
+        "Lat": "40.1693",
+        "Lot": "34.8426"
     },
     {
         "Alan Adı": "bilgeotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(364) 611 48 59",
-        "Enlem": "40.975257",
-        "Boylam": "34.813898"
+        "Telefon": "0364 611 48 59",
+        "Lat": "40.975257",
+        "Lot": "34.813898"
     },
     {
         "Alan Adı": "ekmekcilerotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(366) 214 34 42",
-        "Enlem": "41.392308",
-        "Boylam": "33.77808"
+        "Telefon": "0366 214 34 42",
+        "Lat": "41.392308",
+        "Lot": "33.77808"
     },
     {
         "Alan Adı": "pehlivanlarlastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Yok",
-        "Telefon": "(366) 222 23 53",
-        "Enlem": "41.4197",
-        "Boylam": "33.779"
+        "Telefon": "0366 222 23 53",
+        "Lat": "41.4197",
+        "Lot": "33.779"
     },
     {
         "Alan Adı": "ocakliotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Yok",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(364) 311 83 01",
-        "Enlem": "40.1637",
-        "Boylam": "34.372"
+        "Telefon": "0364 311 83 01",
+        "Lat": "40.1637",
+        "Lot": "34.372"
     },
     {
         "Alan Adı": "oklasotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(364) 230 11 66",
-        "Enlem": "40.542",
-        "Boylam": "34.945"
+        "Telefon": "0364 230 11 66",
+        "Lat": "40.542",
+        "Lot": "34.945"
     },
     {
         "Alan Adı": "balciogluotolastik.com",
-        "Lastik Değişim": "Yok",
-        "Rot": "Yok",
-        "Balans": "Yok",
-        "Lastik Oteli": "Yok",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(366) 417 22 00",
-        "Enlem": "41.51045128",
-        "Boylam": "34.21499044"
+        "Telefon": "0366 417 22 00",
+        "Lat": "41.51045128",
+        "Lot": "34.21499044"
     },
     {
         "Alan Adı": "tuncerozkanotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(232) 853 17 19",
-        "Enlem": "38.2232",
-        "Boylam": "27.3131"
+        "Telefon": "0232 853 17 19",
+        "Lat": "38.2232",
+        "Lot": "27.3131"
     },
     {
         "Alan Adı": "salihaydinotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(256) 585 37 10",
-        "Enlem": "37.8547",
-        "Boylam": "27.7151"
+        "Telefon": "0256 585 37 10",
+        "Lat": "37.8547",
+        "Lot": "27.7151"
     },
     {
         "Alan Adı": "karginotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(256) 711 63 68",
-        "Enlem": "37.627263",
-        "Boylam": "28.045515"
+        "Telefon": "0256 711 63 68",
+        "Lat": "37.627263",
+        "Lot": "28.045515"
     },
     {
         "Alan Adı": "gunerotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(256) 811 64 99",
-        "Enlem": "37.3797832",
-        "Boylam": "27.2794322"
+        "Telefon": "0256 811 64 99",
+        "Lat": "37.3797832",
+        "Lot": "27.2794322"
     },
     {
         "Alan Adı": "yukselicecekotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(282) 427 11 85",
-        "Enlem": "40.886566",
-        "Boylam": "26.916994"
+        "Telefon": "0282 427 11 85",
+        "Lat": "40.886566",
+        "Lot": "26.916994"
     },
     {
         "Alan Adı": "canbulutotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(284) 235 18 69",
-        "Enlem": "41.66128",
-        "Boylam": "26.57917"
+        "Telefon": "0284 235 18 69",
+        "Lat": "41.66128",
+        "Lot": "26.57917"
     },
     {
         "Alan Adı": "ozlasotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(224) 441 46 00",
-        "Enlem": "40.195999",
-        "Boylam": "28.938066"
+        "Telefon": "0224 441 46 00",
+        "Lat": "40.195999",
+        "Lot": "28.938066"
     },
     {
         "Alan Adı": "aydinlarotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(432) 223 65 00",
-        "Enlem": "38.557282",
-        "Boylam": "43.315441"
+        "Telefon": "0432 223 65 00",
+        "Lat": "38.557282",
+        "Lot": "43.315441"
     },
     {
         "Alan Adı": "yilmazbugdayogullari.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(432) 217 80 00",
-        "Enlem": "38.495288",
-        "Boylam": "43.371406"
+        "Telefon": "0432 217 80 00",
+        "Lat": "38.495288",
+        "Lot": "43.371406"
     },
     {
         "Alan Adı": "yamanlarotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(434) 826 11 11",
-        "Enlem": "38.5227",
-        "Boylam": "42.2759"
+        "Telefon": "0434 826 11 11",
+        "Lat": "38.5227",
+        "Lot": "42.2759"
     },
     {
         "Alan Adı": "drotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Var",
-        "Telefon": "(232) 382 8583",
-        "Enlem": "38.500529",
-        "Boylam": "27.046602"
+        "Telefon": "0232 382 8583",
+        "Lat": "38.500529",
+        "Lot": "27.046602"
     },
     {
         "Alan Adı": "kadirunlulastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(232) 365 79 22",
-        "Enlem": "38.462605",
-        "Boylam": "27.127902"
+        "Telefon": "0232 365 79 22",
+        "Lat": "38.462605",
+        "Lot": "27.127902"
     },
     {
         "Alan Adı": "metincanotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(232) 237 02 11",
-        "Enlem": "38.390503",
-        "Boylam": "27.136048"
+        "Telefon": "0232 237 02 11",
+        "Lat": "38.390503",
+        "Lot": "27.136048"
     },
     {
         "Alan Adı": "rahmiozisikotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(232) 461 69 03",
-        "Enlem": "38.445831",
-        "Boylam": "27.181541"
+        "Telefon": "0232 461 69 03",
+        "Lat": "38.445831",
+        "Lot": "27.181541"
     },
     {
         "Alan Adı": "urlaalinteriotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Yok",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(232) 754 47 10",
-        "Enlem": "38.321809",
-        "Boylam": "26.751969"
+        "Telefon": "0232 754 47 10",
+        "Lat": "38.321809",
+        "Lot": "26.751969"
     },
     {
         "Alan Adı": "orduotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Yok",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(236) 313 42 58",
-        "Enlem": "38.489865",
-        "Boylam": "27.685769"
+        "Telefon": "0236 313 42 58",
+        "Lat": "38.489865",
+        "Lot": "27.685769"
     },
     {
         "Alan Adı": "bereketotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Yok",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(236) 788 10 09",
-        "Enlem": "38.4883333",
-        "Boylam": "28.1418265"
+        "Telefon": "0236 788 10 09",
+        "Lat": "38.4883333",
+        "Lot": "28.1418265"
     },
     {
         "Alan Adı": "ototuna.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(236) 238 02 06",
-        "Enlem": "38.616241",
-        "Boylam": "27.3794884"
+        "Telefon": "0236 238 02 06",
+        "Lat": "38.616241",
+        "Lot": "27.3794884"
     },
     {
         "Alan Adı": "mehmetarslanotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Var",
-        "Telefon": "(236) 654 12 33",
-        "Enlem": "38.351661",
-        "Boylam": "28.52165"
+        "Telefon": "0236 654 12 33",
+        "Lat": "38.351661",
+        "Lot": "28.52165"
     },
     {
         "Alan Adı": "cakirogluotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(236) 412 11 22",
-        "Enlem": "38.998804",
-        "Boylam": "27.88204"
+        "Telefon": "0236 412 11 22",
+        "Lat": "38.998804",
+        "Lot": "27.88204"
     },
     {
         "Alan Adı": "ertanotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(312) 309 26 53",
-        "Enlem": "39.951127",
-        "Boylam": "32.854951"
+        "Telefon": "0312 309 26 53",
+        "Lat": "39.951127",
+        "Lot": "32.854951"
     },
     {
         "Alan Adı": "cengizlerotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(312) 395 85 08",
-        "Enlem": "39.994445",
-        "Boylam": "32.761351"
+        "Telefon": "0312 395 85 08",
+        "Lat": "39.994445",
+        "Lot": "32.761351"
     },
     {
         "Alan Adı": "kardeslerulasimotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Var",
-        "Telefon": "(312) 354 88 99",
-        "Enlem": "39.970319",
-        "Boylam": "32.749863"
+        "Telefon": "0312 354 88 99",
+        "Lat": "39.970319",
+        "Lot": "32.749863"
     },
     {
         "Alan Adı": "alterlasotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(312) 863 58 58",
-        "Enlem": "39.9131657",
-        "Boylam": "33.2370996"
+        "Telefon": "0312 863 58 58",
+        "Lat": "39.9131657",
+        "Lot": "33.2370996"
     },
     {
         "Alan Adı": "otouclerlastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(312) 688 01 36",
-        "Enlem": "38.934564",
-        "Boylam": "33.541672"
+        "Telefon": "0312 688 01 36",
+        "Lat": "38.934564",
+        "Lot": "33.541672"
     },
     {
         "Alan Adı": "hamaratotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Yok",
-        "Telefon": "(312) 287 58 58",
-        "Enlem": "39.90998",
-        "Boylam": "32.81617"
+        "Telefon": "0312 287 58 58",
+        "Lat": "39.90998",
+        "Lot": "32.81617"
     },
     {
         "Alan Adı": "hslastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(312) 814 11 39",
-        "Enlem": "40.2050852",
-        "Boylam": "32.684349"
+        "Telefon": "0312 814 11 39",
+        "Lat": "40.2050852",
+        "Lot": "32.684349"
     },
     {
         "Alan Adı": "olgunnakliyatotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(536) 668 58 64",
-        "Enlem": "40.3862",
-        "Boylam": "36.0878"
+        "Telefon": "0536 668 58 64",
+        "Lat": "40.3862",
+        "Lot": "36.0878"
     },
     {
         "Alan Adı": "dogaotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Yok",
-        "Telefon": "(533) 719 55 74",
-        "Enlem": "41.336853",
-        "Boylam": "62.61745"
+        "Telefon": "0533 719 55 74",
+        "Lat": "41.336853",
+        "Lot": "62.61745"
     },
     {
         "Alan Adı": "sayildiotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(312) 425 27 72",
-        "Enlem": "39.968189",
-        "Boylam": "32.5803222"
+        "Telefon": "0312 425 27 72",
+        "Lat": "39.968189",
+        "Lot": "32.5803222"
     },
     {
         "Alan Adı": "aksoyotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(352) 331 24 19",
-        "Enlem": "38.7357698",
-        "Boylam": "35.4393359"
+        "Telefon": "0352 331 24 19",
+        "Lat": "38.7357698",
+        "Lot": "35.4393359"
     },
     {
         "Alan Adı": "nizamettinsungurotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(352) 331 11 71",
-        "Enlem": "38.756874",
-        "Boylam": "35.373922"
+        "Telefon": "0352 331 11 71",
+        "Lat": "38.756874",
+        "Lot": "35.373922"
     },
     {
         "Alan Adı": "azimliotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(386) 212 52 52",
-        "Enlem": "39.137627",
-        "Boylam": "34.18301"
+        "Telefon": "0386 212 52 52",
+        "Lat": "39.137627",
+        "Lot": "34.18301"
     },
     {
         "Alan Adı": "tepeogluotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Yok",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(332) 813 27 85",
-        "Enlem": "38.3599",
-        "Boylam": "31.4203"
+        "Telefon": "0332 813 27 85",
+        "Lat": "38.3599",
+        "Lot": "31.4203"
     },
     {
         "Alan Adı": "cemalogluotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Yok",
-        "Telefon": "(332) 233 22 23",
-        "Enlem": "37.9010346",
-        "Boylam": "32.5032136"
+        "Telefon": "0332 233 22 23",
+        "Lat": "37.9010346",
+        "Lot": "32.5032136"
     },
     {
         "Alan Adı": "kayacikotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(354) 415 12 32",
-        "Enlem": "39.812535",
-        "Boylam": "35.151454"
+        "Telefon": "0354 415 12 32",
+        "Lat": "39.812535",
+        "Lot": "35.151454"
     },
     {
         "Alan Adı": "vizyonjantlastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Var",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Yok",
-        "Telefon": "(533) 663 84 34",
-        "Enlem": "37.927079",
-        "Boylam": "32.516651"
+        "Telefon": "0533 663 84 34",
+        "Lat": "37.927079",
+        "Lot": "32.516651"
     },
     {
         "Alan Adı": "gorpeliotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(354) 212 39 69",
-        "Enlem": "39.821901",
-        "Boylam": "34.804384"
+        "Telefon": "0354 212 39 69",
+        "Lat": "39.821901",
+        "Lot": "34.804384"
     },
     {
         "Alan Adı": "karamansemsotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Yok",
-        "Telefon": "(338) 212 14 44",
-        "Enlem": "37.1797903",
-        "Boylam": "33.2303377"
+        "Telefon": "0338 212 14 44",
+        "Lat": "37.1797903",
+        "Lot": "33.2303377"
     },
     {
         "Alan Adı": "akinciotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(248) 325 11 13",
-        "Enlem": "37.463942",
-        "Boylam": "30.561924"
+        "Telefon": "0248 325 11 13",
+        "Lat": "37.463942",
+        "Lot": "30.561924"
     },
     {
         "Alan Adı": "güneyliotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Yok",
-        "Nitrojen": "Yok",
-        "Telefon": "(246) 224 24 15",
-        "Enlem": "37.7833809",
-        "Boylam": "30.563074"
+        "Telefon": "0246 224 24 15",
+        "Lat": "37.7833809",
+        "Lot": "30.563074"
     },
     {
         "Alan Adı": "hidirkocogluotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Yok",
-        "Jant": "Yok",
-        "Nitrojen": "Var",
-        "Telefon": "(242) 324 07 44",
-        "Enlem": "36.8578",
-        "Boylam": "30.757934"
+        "Telefon": "0242 324 07 44",
+        "Lat": "36.8578",
+        "Lot": "30.757934"
     },
     {
         "Alan Adı": "otobanotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Yok",
-        "Telefon": "(242) 326 90 90",
-        "Enlem": "36.912525",
-        "Boylam": "30.704167"
+        "Telefon": "0242 326 90 90",
+        "Lat": "36.912525",
+        "Lot": "30.704167"
     },
     {
         "Alan Adı": "toksuntokgozotolastik.com",
-        "Lastik Değişim": "Var",
-        "Rot": "Yok",
-        "Balans": "Var",
-        "Lastik Oteli": "Var",
-        "Jant": "Var",
-        "Nitrojen": "Var",
-        "Telefon": "(242) 871 58 15",
-        "Enlem": "36.239246",
-        "Boylam": "29.997391"
+        "Telefon": "0242 871 58 15",
+        "Lat": "36.239246",
+        "Lot": "29.997391"
     }
 ]
