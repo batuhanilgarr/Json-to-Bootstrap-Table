@@ -12,33 +12,33 @@
 <div class="container mt-5">
   <h2>Bayi Tablosu</h2>
 
-  <!-- Arama Girişi -->
+  
   <input type="text" id="searchInput" class="form-control mb-3" placeholder="Ara">
 
-  <!-- Tablo -->
+  
   <table class="table table-bordered" id="bayiTable">
     <thead>
-      <!-- Sıra numarası ve sütun başlıkları buraya dinamik olarak eklenecek -->
+      
     </thead>
     <tbody id="tableBody">
-      <!-- Tablo verileri buraya dinamik olarak eklenecek -->
+      
     </tbody>
   </table>
 </div>
 
 <script>
 $(document).ready(function() {
-  // JSON dosyasının yolu
+  
   var jsonFilePath = 'bayi.json';
 
-  // Tabloyu oluştur
+  
   function createTable(data) {
     var tableHead = $("#bayiTable thead");
     var tableBody = $("#tableBody");
 
-    // Sıra numarası ve sütun başlıklarını belirle
+    
     var headers = Object.keys(data[0]);
-    headers.unshift("Sıra No"); // Sıra numarası başlığını ekle
+    headers.unshift("Sıra No"); 
     var headerRow = "<tr>";
     $.each(headers, function(index, header) {
       headerRow += "<th>" + header + "</th>";
@@ -46,7 +46,7 @@ $(document).ready(function() {
     headerRow += "</tr>";
     tableHead.append(headerRow);
 
-    // Verileri tabloya ekle
+    
     $.each(data, function(index, item) {
       var row = "<tr><td>" + (index + 1) + "</td>";
       $.each(headers.slice(1), function(index, header) {
@@ -57,13 +57,13 @@ $(document).ready(function() {
     });
   }
 
-  // JSON verilerini çek
+  
   $.getJSON(jsonFilePath, function(data) {
-    // Tabloyu oluştur
+    
     createTable(data);
   });
 
-  // Arama işlemini gerçekleştir
+  
   $("#searchInput").on("keyup", function() {
     var value = $(this).val().toLowerCase();
     $("#tableBody tr").filter(function() {
@@ -71,7 +71,7 @@ $(document).ready(function() {
     });
   });
 
-  // Satır rengini değiştirme fonksiyonu
+  
   window.changeRowColor = function(index) {
     $("#tableBody tr").eq(index).css("background-color", "yellow");
   };
